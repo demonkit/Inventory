@@ -1,6 +1,10 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
+"""
+Write current time to a specific file.
+"""
+
 import os
 import sys
 from datetime import datetime
