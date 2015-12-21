@@ -4,6 +4,9 @@
 
 """
 Print colorful words to termial, make prints easy to be distinguished.
+
+See http://stackoverflow.com/questions/287871/print-in-terminal-with-colors-using-python.
+In that page, there are a few tools which are more convenient to use.
 """
 
 
