@@ -1,2 +1,2 @@
-# Inventory
+# toolbox
 Toolbox for handy scripts
