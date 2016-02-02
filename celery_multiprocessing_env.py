@@ -5,6 +5,8 @@
 This is the billiard assertion error, use EVN to avoid it,
 In shell:    export PYTHONOPTIMIZE=1
 Or in python: os.environ["PYTHONOPTIMIZE"] = "1" # the value is of type string
+
+See: https://github.com/celery/celery/issues/1709 for more infomation.
 """
 
 from __future__ import absolute_import
